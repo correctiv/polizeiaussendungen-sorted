@@ -1,0 +1,19 @@
+{
+  "name": "comparank",
+  "version": "0.0.0",
+  "authors": [
+    "Stefan Wehrmeyer <mail@stefanwehrmeyer.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chroma-js": "~1.0.1",
+    "tablesort": "git://github.com/tristen/tablesort.git#~3.1.0"
+  }
+}
