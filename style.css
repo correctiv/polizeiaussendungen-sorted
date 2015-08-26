@@ -190,3 +190,7 @@ table th.sort-up:after {
 
 * html .clearfix { height: 1%; } /* IE6 */
 *:first-child + html .clearfix { min-height: 1%; } /* IE7 */
+
+small {
+  color: #ccc;
+}
